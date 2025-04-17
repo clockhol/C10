@@ -1,4 +1,19 @@
 /* Add screen styles below */
-a.active {
-    font-weight: bold;
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+    background-color: #2E3440;
+    font-family: 'Lato';
+}
+
+h1 {
+    color:#F8F9FA;
+}
+
+h2 {
+    color: #DEE2E6;
+}
+
+p {
+    color: #ADB5BD;
 }
