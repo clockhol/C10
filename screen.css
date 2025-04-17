@@ -5,6 +5,9 @@ body {
     background-color: #2E3440;
     font-family: 'Lato';
     margin: auto;
+    padding: 0;
+    text-align: center;
+    width: 50%;
 }
 
 h1 {
